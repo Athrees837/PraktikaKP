@@ -1,0 +1,15 @@
+C:\Users\Admin\Desktop\Проект\Спортзал\Спортзал\bin\Debug\net6.0\Спортзал.exe
+C:\Users\Admin\Desktop\Проект\Спортзал\Спортзал\bin\Debug\net6.0\Спортзал.deps.json
+C:\Users\Admin\Desktop\Проект\Спортзал\Спортзал\bin\Debug\net6.0\Спортзал.runtimeconfig.json
+C:\Users\Admin\Desktop\Проект\Спортзал\Спортзал\bin\Debug\net6.0\Спортзал.dll
+C:\Users\Admin\Desktop\Проект\Спортзал\Спортзал\bin\Debug\net6.0\Спортзал.pdb
+C:\Users\Admin\Desktop\Проект\Спортзал\Спортзал\obj\Debug\net6.0\Спортзал.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\Проект\Спортзал\Спортзал\obj\Debug\net6.0\Спортзал.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\Проект\Спортзал\Спортзал\obj\Debug\net6.0\Спортзал.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\Проект\Спортзал\Спортзал\obj\Debug\net6.0\Спортзал.AssemblyInfo.cs
+C:\Users\Admin\Desktop\Проект\Спортзал\Спортзал\obj\Debug\net6.0\Спортзал.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Проект\Спортзал\Спортзал\obj\Debug\net6.0\Спортзал.dll
+C:\Users\Admin\Desktop\Проект\Спортзал\Спортзал\obj\Debug\net6.0\refint\Спортзал.dll
+C:\Users\Admin\Desktop\Проект\Спортзал\Спортзал\obj\Debug\net6.0\Спортзал.pdb
+C:\Users\Admin\Desktop\Проект\Спортзал\Спортзал\obj\Debug\net6.0\Спортзал.genruntimeconfig.cache
+C:\Users\Admin\Desktop\Проект\Спортзал\Спортзал\obj\Debug\net6.0\ref\Спортзал.dll
